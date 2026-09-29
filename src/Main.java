@@ -1,6 +1,6 @@
 public class Main {
     static void main(String[] args) {
-        System.out.println("Ale a la playa");
+        System.out.println("Manuel a la playa");
         int contador = 0;
         while (true) {
             System.out.println("67");
@@ -11,5 +11,6 @@ public class Main {
             }
 
         }
+        System.out.println("Manuel es una hiena");
     }
 }
