@@ -8,7 +8,7 @@ public class Main {
 
             if (contador > 100){
                 break;
-            }
+            };
 
         }
         System.out.println("Manuel es una hiena");
